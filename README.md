@@ -16,10 +16,6 @@ After:
 
 ![image](https://cloud.githubusercontent.com/assets/19625/9389729/7986652e-47a7-11e5-9835-402c55e05103.png)
 
-## TODO
-
-* Detect pjax event
-
 ## LICENSE
 
 MIT License
