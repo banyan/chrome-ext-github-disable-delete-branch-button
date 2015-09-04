@@ -1,6 +1,6 @@
 {
   "name": "GitHub Disable Delete Branch Button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Disable delete branch button if it's merged from \"master\" branch.",
   "content_scripts": [
